@@ -1,0 +1,27 @@
+h1{
+    background-color: rgb(85, 228, 85);
+    font-weight: 100;    
+}
+#home{
+background-color: yellow;
+size: 33px;
+font-size: 70px;
+}
+#collection{
+    background-color: aquamarine;
+    font-size: 60px;
+}
+#register{
+    background-color:rgb(146, 51, 118);
+    font-size: 50px;
+    color: black;
+}
+#contact{
+    background-color: rgb(39, 131, 218);
+    font-size: 40px;
+    color: antiquewhite;
+}
+body{
+    background-color: rgb(191, 236, 185);
+    background: -webkit-image-set();
+}
